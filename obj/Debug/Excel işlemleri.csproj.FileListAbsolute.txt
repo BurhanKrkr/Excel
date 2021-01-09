@@ -1,0 +1,10 @@
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\bin\Debug\Excel işlemleri.exe.config
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\bin\Debug\Excel işlemleri.exe
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\bin\Debug\Excel işlemleri.pdb
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel işlemleri.csprojAssemblyReference.cache
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel_işlemleri.Form1.resources
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel_işlemleri.Properties.Resources.resources
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel işlemleri.csproj.GenerateResource.cache
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel işlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel işlemleri.exe
+C:\Users\Burhan\Desktop\Excel işlemleri\Excel işlemleri\obj\Debug\Excel işlemleri.pdb
